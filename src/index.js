@@ -109,7 +109,7 @@ class Game extends React.Component {
     return (
       <div>
         <h1>Tic Tac Toe</h1>
-        <p>Fun Tic Tac Toe in which you can see your previous moves</p>
+        <p>Fun Tic Tac Toe in which you can see your previous moves!</p>
         <div className="game">
           <div className="game-board">
             <Board
